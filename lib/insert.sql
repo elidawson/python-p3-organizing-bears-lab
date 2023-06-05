@@ -8,4 +8,4 @@ VALUES
 ('Melissa', 13, 'F', 'Pink', 'Hungry', True),
 ('Grinch', 20, 'M', 'Green', 'Sleepy', True),
 ('Wendy', 40, 'F', 'Black', 'Wild', True),
-('NULL', 60, 'M', 'Green', 'Wild', True);
+(NULL, 60, 'M', 'Green', 'Wild', True);
